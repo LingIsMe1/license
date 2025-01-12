@@ -15,3 +15,4 @@ LingKdet
 kyouze
 õzan
 udingans
+DiYan
